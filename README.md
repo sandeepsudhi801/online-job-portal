@@ -1,0 +1,2 @@
+# online-job-portal
+The objective of Consultancy System is to provide software which helps in user  getting information regarding vacancy available in different cities in different fields.  This software helps the user in providing notification about the jobs available  rather than searching for it in different newspaper or sites or manually. It stores  the information about the user, provides details about the company through where  we can apply for job.
